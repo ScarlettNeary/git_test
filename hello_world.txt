@@ -1,0 +1,3 @@
+Hello 
+I am practicing creating repositories
+I'm also practicing staging and committing files.
